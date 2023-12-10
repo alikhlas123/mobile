@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894664734693",
+    "project_id": "vendorbanjari",
+    "storage_bucket": "vendorbanjari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894664734693:android:dc8b462d4392c08dd6610c",
+        "android_client_info": {
+          "package_name": "com.example.vendor_banjari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh8jMDCP9tKzxf2Dc1rSxeiFiD1VWsw8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
